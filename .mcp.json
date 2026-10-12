@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pikpak": {
+      "type": "http",
+      "url": "https://pikpak.ai/mcp"
+    }
+  }
+}
